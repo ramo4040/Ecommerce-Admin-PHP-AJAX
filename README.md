@@ -2,6 +2,12 @@
 
 This repository showcases a custom-built ecommerce admin panel developed using core PHP and AJAX. The project focuses on implementing key functionalities for managing an online store, including product and category management. 
 
+<p align="center"> 
+   <img src='public/images/1.png' width='410'> 
+   <img src='public/images/2.png' width='410'> 
+   <img src='public/images/1.gif'> 
+</p>
+
 **Features:**
 
 *   **Product Management:**
