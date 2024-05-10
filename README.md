@@ -61,6 +61,6 @@ This repository showcases a custom-built ecommerce admin panel developed using c
 
 Feel free to explore the code, suggest improvements, or contribute to the project by creating pull requests. 
 
-**License:**
+## Contact
 
-[Specify your chosen license here (e.g., MIT License)]****
+<a href="https://www.linkedin.com/in/yassir-rouane/">Linkedin</a>
